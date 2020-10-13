@@ -11,3 +11,16 @@ C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
 C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.1\Calc.dll
 C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
 C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+C:\GitHub\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\GitHub\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\GitHub\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\GitHub\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\GitHub\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\GitHub\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\GitHub\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
