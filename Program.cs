@@ -47,10 +47,24 @@ namespace Calc
                 }
             }
 
-            if (operation == 1) Console.WriteLine("{0}+{1}={2}", a, b, a + b);
-            if (operation == 2) Console.WriteLine("{0}-{1}={2}", a, b, a - b);
-            if (operation == 3) Console.WriteLine("{0}*{1}={2}", a, b, a * b);
-            if (operation == 4) Console.WriteLine("{0}/{1}={2}", a, b, a / b);
+            switch (operation)
+            {
+                case 1:
+                    Console.WriteLine("{0}+{1}={2}", a, b, a + b);
+                    break;
+                case 2:
+                    Console.WriteLine("{0}-{1}={2}", a, b, a - b);
+                    break;
+                case 3:
+                    Console.WriteLine("{0}*{1}={2}", a, b, a * b);
+                    break;
+                case 4:
+                    Console.WriteLine("{0}/{1}={2}", a, b, a / b);
+                    break;
+                default:
+                    Console.WriteLine("Что-то пошло не так..");
+                    break;
+            }
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axq1dVp2vTbp1R05bbHrYGuSBQJEKnPHhArpSw9+B4RzZigNMntHSESx8LPd1bn0cwwHpMf2NSeikGjkSgk+XQ==",
+  "dgSpecHash": "efU0prOn5PnsXhKXZSqnoyLCX2tI5DYXfD9kzzkH7sLcmi4EPxZafMMmayJezhHcO0+ZCoAP7Qcm5/w9apT/Ig==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\Calc\\Calc.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Calc\\Calc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
