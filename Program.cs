@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Calc
 {
     class Program
@@ -46,25 +47,17 @@ namespace Calc
                     inputstring= Console.ReadLine();
                 }
             }
+            
+            MathOperationClass m = new MathOperationClass();
+            m.a = a;
+            m.b = b;
+            m.o = operation;
 
-            switch (operation)
-            {
-                case 1:
-                    Console.WriteLine("{0}+{1}={2}", a, b, a + b);
-                    break;
-                case 2:
-                    Console.WriteLine("{0}-{1}={2}", a, b, a - b);
-                    break;
-                case 3:
-                    Console.WriteLine("{0}*{1}={2}", a, b, a * b);
-                    break;
-                case 4:
-                    Console.WriteLine("{0}/{1}={2}", a, b, a / b);
-                    break;
-                default:
-                    Console.WriteLine("Что-то пошло не так..");
-                    break;
-            }
+            Console.Write(a);
+            Console.Write(operation);
+            Console.Write(b);
+            Console.Write("=");
+            Console.Write(MathOperationClass.MathOperation(a, b, operation));
         }
     }
 }
